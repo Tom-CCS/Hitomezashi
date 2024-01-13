@@ -1,1 +1,12 @@
-
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Ren"
+  given-names: "Qiuyu"
+  orcid: "https://orcid.org/0000-0003-1491-7867"
+- family-names: "Zhang"
+  given-names: "Shengtong"
+  orcid: "https://orcid.org/0000-0003-0744-5515"
+title: "Toroidal Hitomezashi Patterns"
+date-released: 2024-01-13
+url: "https://github.com/Tom-CCS/Hitomezashi/"
