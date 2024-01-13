@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 # ================================================
 #
 #      Main Function to draw Graph_{M, N}(x, y)
-#         You can Modify paramaters below
+#         You can modify paramaters below
 #
 # ================================================
 
