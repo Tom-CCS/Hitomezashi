@@ -169,20 +169,20 @@ def one_instance(x, y = None,
 m = 6 
 n = 8
 
-# the orientation of the horizontal edges
+# The orientation of the horizontal edges
 i = 0b0001_1111
 
-# the orientation of the vertical edges
+# The orientation of the vertical edges
 j = 0b0001_11
 
-# number of cycles to draw
+# Maximum number of cycles to draw
 num_cycles = 8
 
-# the color of each cycle to draw
+# The color of each cycle to draw
 colors = ["blue", "cyan", "green", "orange",
           "red", "lightgreen", "pink", "darkred"]
 
-# you must provide enough colors
+# You must provide enough colors
 assert len(colors) >= num_cycles
 
 # ================================================
